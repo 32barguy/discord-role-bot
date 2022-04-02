@@ -1,8 +1,8 @@
 {
-  "channel": "lfg-roles",
+  "channel": "roles",
   "roles": {
-    "xbox": "Xbox",
-    "ps4": "PS4",
-    "steam": "Steam"
+    "heheone": "Smile",
+    "hehetwo": "Cry",
+    "hehethree": "Shit"
   }
 }
